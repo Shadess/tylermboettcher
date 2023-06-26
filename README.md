@@ -1,2 +1,2 @@
 # tylermboettcher
-Personal Acting Website
+Personal Website
